@@ -9,6 +9,8 @@ model = TFAutoModelForSequenceClassification.\
 
 
 def Bert_Classification(comments: list) -> list:
+    """Classify input comments as positive or negative using
+    a pre-trained multilingual machine learning model from the BERT family"""
 
     results = []
 
