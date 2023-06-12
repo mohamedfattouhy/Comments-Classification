@@ -1,0 +1,7 @@
+requests
+pandas
+plotly
+streamlit
+beautifulsoup4==4.12.2
+tensorflow==2.8.0
+transformers==4.30.1
