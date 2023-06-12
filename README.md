@@ -29,7 +29,7 @@ The process involves the following steps:
 <br>
 
 <div align="center">
-<img src="static/overview_app.png" alt="Overwiew app" width="500px">
+<img src="static/overview_app.PNG" alt="Overwiew app" width="500px">
 </div>
 
 <br>
