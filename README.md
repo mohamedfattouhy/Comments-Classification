@@ -1,6 +1,6 @@
 <div align="center">
 
-# Comments Classification with Pre-trained Machine Learning Model
+## Comments Classification with Pre-trained Machine Learning Model
 
 <img src="static/sentiment_analysis.png" alt="Comments Classification (Positive/negative)" width="250px">
 
@@ -10,7 +10,7 @@
 
 This project aims to perform comments classification on scraped comments from websites using a pre-trained machine learning model. The goal is to classify the comments as either positive or negative. We use streamlit to provide a user-friendly interface for scraping.
 
-## Overview
+### Overview
 
 Sentiment analysis, also known as opinion mining, is the process of determining the sentiment or emotional tone expressed in a piece of text. In this project, we utilize the `TFAutoModelForSequenceClassification`, a pre-trained machine learning model, to classify comments into positive or negative sentiment.
 
@@ -24,7 +24,7 @@ The process involves the following steps:
 
 4. Classification and Visualization: The pre-trained model classifies the comments as positive or negative. We then use the results to create a bar chart and visualize the sentiment distribution.
 
-## Installation
+### Installation
 
 To run this project locally, follow these steps:
 
@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
    streamlit run app.py
    ```
 
-## Usage
+### Usage
 
 1. Enter the URL of the website you want to scrape comments from.
 2. Specify the regex pattern to filter the comments.
