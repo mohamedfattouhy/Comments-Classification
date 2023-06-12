@@ -26,6 +26,14 @@ The process involves the following steps:
 
 4. Classification and Visualization: The pre-trained model classifies the comments as positive or negative. We then use the results to create a bar chart and visualize the sentiment distribution.
 
+<br>
+
+<div align="center">
+<img src="static/overview_app.png" alt="Overwiew app" width="500px">
+</div>
+
+<br>
+
 ### Installation
 
 To run this project locally, follow these steps:
